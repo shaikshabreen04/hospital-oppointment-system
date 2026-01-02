@@ -2,3 +2,4 @@
 "1.Doctor reviews patient details"
 "2.Appointment details are saved in the system"
 "3.Patient visits the doctor at the scheduled time"
+"4.Add Appointment details"
