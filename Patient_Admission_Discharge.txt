@@ -1,3 +1,5 @@
 "#Patient Admission and Discharge Workflow"
 "1.Patient registration process"
 "2.Collecting personal and medical history."
+"3.Insurance verification."
+"4.Billing details and Initial medical assessment."
