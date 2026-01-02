@@ -1,0 +1,3 @@
+"#Patient Admission and Discharge Workflow"
+"1.Patient registration process"
+"2.Collecting personal and medical history."
